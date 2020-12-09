@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [RGB_SWITCH.PcbDoc]
+   Generated File[RGB_SWITCH.TXT]
+   Generated File[RGB_SWITCH.LDP]
+   Generated File[RGB_SWITCH.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:09:15 On 09-12-2020
